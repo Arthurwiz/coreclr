@@ -253,7 +253,7 @@ Phew!  The runtime does a lot! It has taken many pages just to describe _some_ o
 - [Wikipedia Entry for the CLR](http://en.wikipedia.org/wiki/Common_Language_Runtime)
 - [ECMA Standard for the Common Language Infrastructure (CLI)][ecma-spec]
 - [.NET Framework Design Guidelines](http://msdn.microsoft.com/en-us/library/ms229042.aspx)
-- [CoreCLR Repo Documentation](README.md)
+- [CoreCLR Repo Documentation](https://github.com/dotnet/coreclr/tree/master/Documentation)
 
 [clr]: http://msdn.microsoft.com/library/8bs2ecf4.aspx
 [ecma-spec]: ../project-docs/dotnet-standards.md
